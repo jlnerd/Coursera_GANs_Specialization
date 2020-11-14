@@ -1,2 +1,2 @@
 # Coursera_GANs_Specialization
-Repo. containing work from [Coursera's GANs specialization](https://www.coursera.org/courses?query=generative%20adversarial%20networks&amp;utm_source=gg&amp;utm_medium=sem&amp;utm_content=01-CatalogDSA-ML1-US&amp;campaignid=9918777773&amp;adgroupid=100491712477&amp;device=c&amp;keyword=&amp;matchtype=b&amp;network=g&amp;devicemodel=&amp;adpostion=&amp;creativeid=432357975999&amp;hide_mobile_promo&amp;gclid=Cj0KCQiAnb79BRDgARIsAOVbhRoc1-KJCWTA3ROPB2v8ODWJQXSZRBG3Z6eFnjcIiFVWIasxq-yUGIMaAvveEALw_wcB)
+Repo. containing work from [Coursera's GANs specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans)
